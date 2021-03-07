@@ -55,11 +55,12 @@
         <version>1.0.2</version>
     </dependency>
 
-    <!-- https://mvnrepository.com/artifact/com.github.sbaudoin/yamllint -->
+    <!-- https://mvnrepository.com/artifact/junit/junit -->
     <dependency>
-        <groupId>com.github.sbaudoin</groupId>
-        <artifactId>yamllint</artifactId>
-        <version>1.2.2</version>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13</version>
+        <scope>test</scope>
     </dependency>
 
 </dependencies>
